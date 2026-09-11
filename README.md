@@ -7,6 +7,4 @@
 
 ![Running App](Screenshot%202026-09-11%20152151.png)
 
-## Reflection
-
-`setState(() { ... })` tells Flutter that a value used by the app has changed and the screen needs to update. When I change the counter or reset count inside `setState()`, Flutter rebuilds the widgets and shows the new values. Without `setState()`, Flutter is not notified about the change, so the updated value would not automatically appear on the screen.
+`setState(() { ... })` tells Flutter that something in the app has changed and the screen needs to be updated. In my counter app, I use it when increasing the counter and when resetting it so that the new values are immediately shown on the screen. Without `setState()`, Flutter would not know that the value has changed, so the updated counter would not appear automatically.
