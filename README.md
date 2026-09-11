@@ -5,7 +5,7 @@ Roll Number: 04072313032
 
 ## App Screenshot
 
-![Running App](screenshots/app_screenshot.png)
+![Running App](Screenshot 2026-09-11 152151.png)
 
 ## Reflection
 
